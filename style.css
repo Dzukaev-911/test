@@ -301,17 +301,13 @@ h1 {
 .icon3 h2 {
     font-size: 32px;
     margin-bottom: 8px;
-    color: #00bbff;
 }
 
 .icon1 p,
 .icon2 p,
 .icon3 p {
-    color: #00bbff;
     font-size: 14px;
 }
-
-
 
 /* Catalog Section */
 .Catalog {
@@ -325,7 +321,6 @@ h1 {
     margin-bottom: 40px;
     flex-wrap: wrap;
     gap: 20px;
-    color: #00bbff;
 }
 
 .catalog-header h2 {
